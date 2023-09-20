@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## Currently preparing to go into software engineering give me some time 🍂
 <!--
 **autumnWindigo/autumnWindigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
