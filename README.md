@@ -1,4 +1,5 @@
-## About Me
+# About Me
+---
 
 🔭 Working on getting my degree in computer science
 🌱 devoping c++ skills through m3p
@@ -8,6 +9,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autumnWindigo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autumnWindigo&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=autumnWindigo&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
